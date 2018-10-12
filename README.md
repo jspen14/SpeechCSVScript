@@ -1,6 +1,6 @@
 This takes in two .csv files and conglomerates them into one with gameplay, speech, and probabilistic data.
 
-To download:
+To Use:
 (Set up format)
 mkdir ReadCSV
 cd ReadCSV
